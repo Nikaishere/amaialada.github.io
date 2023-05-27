@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amaialada.github.io/static/css/main.f6d59f7e.css",
+    "main.js": "/amaialada.github.io/static/js/main.f0ab0d0b.js",
+    "static/media/curso1.jpeg": "/amaialada.github.io/static/media/curso1.fee1a4c26c93439b64d2.jpeg",
+    "static/media/your_img_url.jpeg": "/amaialada.github.io/static/media/your_img_url.ca4aff9bc48214efb1c3.jpeg",
+    "static/media/logo.png": "/amaialada.github.io/static/media/logo.3149aba9500b2493df30.png",
+    "static/media/gi.jpeg": "/amaialada.github.io/static/media/gi.f21837a57c7c43043f88.jpeg",
+    "index.html": "/amaialada.github.io/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f6d59f7e.css",
+    "static/js/main.f0ab0d0b.js"
+  ]
+}
