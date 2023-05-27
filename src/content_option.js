@@ -107,7 +107,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "giselaantonelli@gmail.com",
+    YOUR_EMAIL: "soyamaialada@gmail.com",
     YOUR_FONE: "+54 9 351 326 3938",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
